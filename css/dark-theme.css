@@ -1,0 +1,19 @@
+/* CSS */
+
+body {
+  color: #e7e7e7;
+  background-color: #333;
+}
+
+h1 {
+  font-size: 45px;
+  color: #90AFC5;
+}
+
+h1::after {
+  content: "";
+  background-color: #cb735c;
+  width: 300px;
+  height: 5px;
+  display: block;
+}
