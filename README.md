@@ -67,3 +67,9 @@ Then add the proper styling with CSS.
   transform: translateX(25px);
 }
 ```
+
+You should get something like the below:
+
+![Screenshot](/screenshots/screenshot-02.PNG)
+
+Now add the action with JavaScript
