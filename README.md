@@ -11,7 +11,7 @@ Then you can achieve this by using JavaScript.
 
 ## First create your switch
 
-Start adding the code and styling for your switch button.
+Start adding the code and styling for your switch button. Above the first heading title would be the best place for it.
 
 ```html
 <div class="theme-switch">
