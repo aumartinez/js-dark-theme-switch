@@ -129,3 +129,11 @@ function run() {
   }
 }
 ```
+
+## The Trick
+
+If you read the JS script you may notice what it does, is just to add an extra CSS stylesheet called "dark-theme.css", then you will need to add extra styling to change the site branding. In this example, with just changing a few properties we got a result like the below once the "action" is triggered by the switch control.
+
+![Screenshot](/screenshots/screenshot-03.PNG)
+
+See the live working demo at:
