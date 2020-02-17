@@ -12,3 +12,11 @@ Then you can achieve this by using JavaScript.
 ## First create your switch
 
 Start adding the code and styling for your switch button.
+
+```html
+<div class="theme-switch">
+  <div class="slider round" data-toggle="active"></div>
+</div>
+```
+
+Then add the proper styling with CSS.
