@@ -7,7 +7,7 @@ Let's say you are using in your site a branding palette like the below:
 
 and you want to add to your site a "dark theme" switch as a visual aid to users visiting your website.
 
-Then you can achieve this by using JavaScript.
+Then you can get this done with the help of a JavaScript script.
 
 ## First create your switch
 
