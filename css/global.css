@@ -9,9 +9,17 @@
 
 body {
   font-family: 'Roboto Condensed', Helverica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.6;
   color: #333;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+h2 {
+  font-size: 32px;
 }
 
 .container {
@@ -22,5 +30,7 @@ body {
 
 .quote {
   font-family: "Sriracha", cursive;
-  font-style: italic;
+  font-size: 24px;
+  font-weight: bold;
+  text-align: center;
 }
