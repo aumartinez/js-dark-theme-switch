@@ -1,7 +1,7 @@
 /* CSS */
 
 @import url('https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed|Sriracha&display=swap')
+@import url('https://fonts.googleapis.com/css?family=Sriracha&display=swap');
 
 * {
   box-sizing: border-box;
@@ -16,6 +16,15 @@ body {
 
 h1 {
   font-size: 45px;
+  color: #336B87;
+}
+
+h1::after {
+  content: "";
+  background-color: #763626;
+  width: 300px;
+  height: 5px;
+  display: block;
 }
 
 h2 {
@@ -30,7 +39,7 @@ h2 {
 
 .quote {
   font-family: "Sriracha", cursive;
-  font-size: 24px;
+  font-size: 26px;
   font-weight: bold;
   text-align: center;
 }
