@@ -137,3 +137,5 @@ If you read the JS script you may notice what it does, is just to add an extra C
 ![Screenshot](/screenshots/screenshot-03.PNG)
 
 See the live working demo at:
+
+https://accedo-gps.000webhostapp.com/demo/js-dark-theme-switch/index.html
